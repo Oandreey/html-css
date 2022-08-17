@@ -1,0 +1,52 @@
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa&display=swap');
+
+/*
+    id em HTML = # em CSS (Só pode um elemento)
+
+    class HTML = . em CSS (Pode vários elementos)
+*/
+main {
+    margin: auto;
+    width: 600px;
+    background-color: #C7D1F7;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 15px black;
+}
+
+body {
+    background-color: rgb(255, 255, 255);
+    font-family: 'Comfortaa';
+}
+
+h1 {
+    color: #0C477A;
+}
+
+#principal {
+    color: white;
+    background-color: #091A5E;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.sub {
+    text-align: center;
+}
+
+.basico {
+    color: rgb(21, 212, 21);
+} 
+
+.intermediario {
+    color: #b4c708;
+}
+
+.avancado {
+    color: rgb(201, 0, 0);    
+}
+
+h2 {
+    color: #1473C7;
+}
