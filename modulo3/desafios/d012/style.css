@@ -46,7 +46,7 @@ header a:hover {
     padding: 70px 30px;
     position: relative;
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: 100% 100%;
     background-image: url(imagens/background001.jpg);
     background-attachment: fixed;
 
@@ -56,7 +56,7 @@ header a:hover {
     padding: 70px 30px;
     position: relative;
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: 100% 100%;
     background-image: url(imagens/background002.jpg);
     background-attachment: fixed;
 }
@@ -89,7 +89,7 @@ section > p {
     font-family: var(--fonte3);
     font-size: 47.81px;
     text-align: left;
-    max-width: 550px;
+    max-width: 550vw;
 }
 
 footer {
